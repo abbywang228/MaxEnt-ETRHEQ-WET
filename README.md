@@ -9,7 +9,7 @@ method_theta.R (MaxEnt-ETRHEQ function to model H and LE, using soil moisture (t
 timescale_no_theta.R (applying method_ns.R to wetland sites)
 timescale_theta.R (applying method_theta.R to wetland sites)
 
-Data at each time scale at each site are provided in each timescale folder. These datasets were directly obtained from the FLUXNET and AmeriFlux websites without any alterations.
+Data at each time scale at each site are not provided. These datasets can be directly obtained from the FLUXNET and AmeriFlux websites. There is no need to alter the downloaded dataset before executing the R scripts.
 For each timescale, ensure that the four R scripts along with the corresponding data for that scale are placed within the same folder.
 When executing the script for modeling half-hourly energy fluxes, the process may require up to 3-4 hours to complete for each site. However, for other time scales, the modeling typically takes less than 3 minutes for each site.
 
