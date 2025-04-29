@@ -1,4 +1,8 @@
-This directory contains R scripts for the MaxEnt-ETRHEQ-WET model, including both the core modelling workflow and the scripts used to generate all figures presented in the manuscript.
+This directory contains the updated R scripts for the MaxEnt-ETRHEQ-WET model, including both the core modelling workflow and the scripts used to generate all figures presented in the manuscript.
+
+Update date: 2025-04-29
+
+Please ignore the previous zip file "MaxEnt-ETRHEQ for FLUXNET and AmeriFlux wetland sites.zip"
 
 ####################################################################################################
 Folder Descriptions:
